@@ -24,7 +24,7 @@
 * Aplicación web Full-Stack en producción para la gestión de galerías fotográficas de eventos y deportes. Incluye validación de galerías privadas mediante PIN en servidor, protección de muestras con marca de agua dinámica, carga masiva directa a Cloudinary conservando nombres originales, cálculo automático de paquetes/adicionales y envío de pedidos estructurados vía WhatsApp.
 * 🌐 **Demo en vivo:** [photo-delivery-platform.vercel.app](https://photo-delivery-platform.vercel.app)
 
-#### 2. 🔧 Mechanic-Soft — Sistema de Gestión para Talleres Automotrices
+#### 2. 🔧 [Mechanic-Soft — Sistema de Gestión para Talleres Automotrices](https://github.com/tomas2106/mechanicsoft-test.git)
 * **Stack:** `React` • `Java` • `Spring Boot` • `API REST` • `SQL`
 * Plataforma Full-Stack orientada a digitalizar y optimizar la administración operativa de talleres mecánicos. Permite gestionar clientes, vehículos, órdenes de trabajo, historial de mantenimiento, repuestos y seguimiento del estado de reparación de cada vehículo mediante una arquitectura desacoplada entre frontend y backend.
 
