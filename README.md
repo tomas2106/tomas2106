@@ -1,4 +1,4 @@
-### Hola, soy Jeisson Thomas Prado 👋
+### Hola, soy Jeisson Prado 👋
 
 **Desarrollador de Software Full-Stack** enfocado en diseñar y construir aplicaciones web escalables, seguras y orientadas a resolver necesidades reales de gestión y negocio.
 
